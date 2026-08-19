@@ -4,6 +4,14 @@
 
 ---
 
+Emergence of wandering stable components
+Pierre Berger (IMJ-PRG, CNRS), Sebastien Biebler (IMJ-PRG, CNRS)
+
+
+https://arxiv.org/abs/2001.08649
+
+---
+
 ## Executive Summary
 
 In 2022, a mathematical proof resolved a three-decade-old puzzle about the behavior of systems governed by polynomial rules. The question seemed purely technical: Can a system following polynomial equations exhibit regions that are stable yet perpetually moving? Can a system have a "Fatou component"—a zone of predictable behavior—that itself wanders across the landscape without settling?
